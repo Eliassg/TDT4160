@@ -1,0 +1,1014 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+                              build/vddcheck.o (__aeabi_fsub)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+                              build/vddcheck.o (__aeabi_fdiv)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+                              build/vddcheck.o (__aeabi_f2uiz)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+                              build/em_usart.o (__aeabi_uldivmod)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+                              build/bsp_stk.o (memcpy)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-strlen.o)
+                              build/segmentlcd.o (strlen)
+/Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                              /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               build/system_efm32gg.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x0000000000000000        0x0 build/system_efm32gg.o
+ .data          0x0000000000000000        0x0 build/system_efm32gg.o
+ .bss           0x0000000000000000        0x0 build/system_efm32gg.o
+ .text.SystemHFXOClockSet
+                0x0000000000000000       0x2c build/system_efm32gg.o
+ .text.SystemLFXOClockSet
+                0x0000000000000000       0x2c build/system_efm32gg.o
+ .text          0x0000000000000000        0x0 build/vddcheck.o
+ .data          0x0000000000000000        0x0 build/vddcheck.o
+ .bss           0x0000000000000000        0x0 build/vddcheck.o
+ .text.VCMP_Disable
+                0x0000000000000000       0x14 build/vddcheck.o
+ .text.VCMP_VoltageToLevel
+                0x0000000000000000       0x34 build/vddcheck.o
+ .text.VCMP_VDDHigher
+                0x0000000000000000       0x18 build/vddcheck.o
+ .text.VCMP_Ready
+                0x0000000000000000       0x18 build/vddcheck.o
+ .text.VDDCHECK_Init
+                0x0000000000000000       0x20 build/vddcheck.o
+ .text.VDDCHECK_Disable
+                0x0000000000000000       0x18 build/vddcheck.o
+ .rodata        0x0000000000000000       0x1c build/vddcheck.o
+ .text.VDDCHECK_LowVoltage
+                0x0000000000000000       0x68 build/vddcheck.o
+ .comment       0x0000000000000000       0x7f build/vddcheck.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/vddcheck.o
+ .text          0x0000000000000000        0x0 build/segmentlcd.o
+ .data          0x0000000000000000        0x0 build/segmentlcd.o
+ .bss           0x0000000000000000        0x0 build/segmentlcd.o
+ .text.LCD_Enable
+                0x0000000000000000       0x34 build/segmentlcd.o
+ .rodata.EFM_Numbers
+                0x0000000000000000       0x22 build/segmentlcd.o
+ .rodata.Blocks
+                0x0000000000000000        0x8 build/segmentlcd.o
+ .rodata.signIndex
+                0x0000000000000000        0x2 build/segmentlcd.o
+ .text.SegmentLCD_AllOn
+                0x0000000000000000       0xcc build/segmentlcd.o
+ .text.SegmentLCD_ARing
+                0x0000000000000000       0x50 build/segmentlcd.o
+ .text.SegmentLCD_Battery
+                0x0000000000000000       0x74 build/segmentlcd.o
+ .text.SegmentLCD_Block
+                0x0000000000000000       0x30 build/segmentlcd.o
+ .text.SegmentLCD_Disable
+                0x0000000000000000       0x28 build/segmentlcd.o
+ .text.SegmentLCD_EnergyMode
+                0x0000000000000000       0x50 build/segmentlcd.o
+ .text.SegmentLCD_LowerHex
+                0x0000000000000000       0x8e build/segmentlcd.o
+ .rodata        0x0000000000000000        0x8 build/segmentlcd.o
+ .text.SegmentLCD_LowerNumber
+                0x0000000000000000       0xbc build/segmentlcd.o
+ .text.SegmentLCD_Number
+                0x0000000000000000      0x130 build/segmentlcd.o
+ .text.SegmentLCD_NumberOff
+                0x0000000000000000       0x4c build/segmentlcd.o
+ .text.SegmentLCD_Symbol
+                0x0000000000000000      0x138 build/segmentlcd.o
+ .text.SegmentLCD_UnsignedHex
+                0x0000000000000000       0xd4 build/segmentlcd.o
+ .text.displayBlock
+                0x0000000000000000      0x118 build/segmentlcd.o
+ .text          0x0000000000000000        0x0 build/em_assert.o
+ .data          0x0000000000000000        0x0 build/em_assert.o
+ .bss           0x0000000000000000        0x0 build/em_assert.o
+ .text          0x0000000000000000        0x0 build/em_cmu.o
+ .data          0x0000000000000000        0x0 build/em_cmu.o
+ .bss           0x0000000000000000        0x0 build/em_cmu.o
+ .text.BUS_RegMaskedWrite
+                0x0000000000000000       0x20 build/em_cmu.o
+ .text.CMU_Log2ToDiv
+                0x0000000000000000       0x12 build/em_cmu.o
+ .text.CMU_AUXHFRCOBandGet
+                0x0000000000000000       0x14 build/em_cmu.o
+ .text.CMU_AUXHFRCOBandSet
+                0x0000000000000000       0xb8 build/em_cmu.o
+ .text.CMU_Calibrate
+                0x0000000000000000       0xac build/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x0000000000000000      0x104 build/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x0000000000000000       0x34 build/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x0000000000000000      0x190 build/em_cmu.o
+ .text.CMU_FreezeEnable
+                0x0000000000000000       0x34 build/em_cmu.o
+ .text.CMU_HFRCOBandGet
+                0x0000000000000000       0x14 build/em_cmu.o
+ .text.CMU_HFRCOBandSet
+                0x0000000000000000       0xf4 build/em_cmu.o
+ .text.CMU_HFRCOStartupDelayGet
+                0x0000000000000000       0x14 build/em_cmu.o
+ .text.CMU_HFRCOStartupDelaySet
+                0x0000000000000000       0x40 build/em_cmu.o
+ .text.CMU_HFXOInit
+                0x0000000000000000       0x68 build/em_cmu.o
+ .text.CMU_LCDClkFDIVGet
+                0x0000000000000000       0x10 build/em_cmu.o
+ .text.CMU_LFXOInit
+                0x0000000000000000       0xa0 build/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x0000000000000000       0x5c build/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x0000000000000000       0xb4 build/em_cmu.o
+ .text.CMU_PCNTClockExternalGet
+                0x0000000000000000       0x54 build/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x0000000000000000       0x4c build/em_cmu.o
+ .text          0x0000000000000000        0x0 build/em_emu.o
+ .data          0x0000000000000000        0x0 build/em_emu.o
+ .bss           0x0000000000000000        0x0 build/em_emu.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000        0xa build/em_emu.o
+ .text.BUS_RegBitWrite
+                0x0000000000000000       0x24 build/em_emu.o
+ .text.EMU_BUPinEnable
+                0x0000000000000000       0x24 build/em_emu.o
+ .text.EMU_Unlock
+                0x0000000000000000       0x10 build/em_emu.o
+ .text.CMU_Lock
+                0x0000000000000000       0x10 build/em_emu.o
+ .text.CMU_Unlock
+                0x0000000000000000       0x14 build/em_emu.o
+ .text.emuRestore
+                0x0000000000000000       0xf0 build/em_emu.o
+ .text.getErrataFixEmuE107En
+                0x0000000000000000       0x6c build/em_emu.o
+ .text.EMU_EnterEM2
+                0x0000000000000000       0xa4 build/em_emu.o
+ .text.EMU_EnterEM3
+                0x0000000000000000       0xc8 build/em_emu.o
+ .text.EMU_EnterEM4
+                0x0000000000000000       0x50 build/em_emu.o
+ .rodata        0x0000000000000000       0x1d build/em_emu.o
+ .text.EMU_MemPwrDown
+                0x0000000000000000       0x2c build/em_emu.o
+ .text.EMU_EM23Init
+                0x0000000000000000       0x2c build/em_emu.o
+ .text.EMU_EM4Init
+                0x0000000000000000       0x48 build/em_emu.o
+ .text.EMU_BUPDInit
+                0x0000000000000000       0xd4 build/em_emu.o
+ .text.EMU_BUThresholdSet
+                0x0000000000000000       0x70 build/em_emu.o
+ .text.EMU_BUThresRangeSet
+                0x0000000000000000       0x74 build/em_emu.o
+ .text          0x0000000000000000        0x0 build/em_gpio.o
+ .data          0x0000000000000000        0x0 build/em_gpio.o
+ .bss           0x0000000000000000        0x0 build/em_gpio.o
+ .text.BUS_RegBitWrite
+                0x0000000000000000       0x24 build/em_gpio.o
+ .text.BUS_RegMaskedWrite
+                0x0000000000000000       0x20 build/em_gpio.o
+ .text.GPIO_EM4SetPinRetention
+                0x0000000000000000       0x3c build/em_gpio.o
+ .rodata        0x0000000000000000       0x3e build/em_gpio.o
+ .text.GPIO_PinOutClear
+                0x0000000000000000       0xa8 build/em_gpio.o
+ .text.GPIO_PinOutSet
+                0x0000000000000000       0xa8 build/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x0000000000000000       0x3c build/em_gpio.o
+ .text.GPIO_DriveModeSet
+                0x0000000000000000       0x90 build/em_gpio.o
+ .text.GPIO_ExtIntConfig
+                0x0000000000000000      0x124 build/em_gpio.o
+ .text.GPIO_PinModeSet
+                0x0000000000000000      0x180 build/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x0000000000000000       0xe0 build/em_gpio.o
+ .text.GPIO_EM4EnablePinWakeup
+                0x0000000000000000       0x84 build/em_gpio.o
+ .comment       0x0000000000000000       0x7f build/em_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/em_gpio.o
+ .text          0x0000000000000000        0x0 build/em_rtc.o
+ .data          0x0000000000000000        0x0 build/em_rtc.o
+ .bss           0x0000000000000000        0x0 build/em_rtc.o
+ .text.BUS_RegBitWrite
+                0x0000000000000000       0x24 build/em_rtc.o
+ .rodata        0x0000000000000000       0x1d build/em_rtc.o
+ .text.RTC_CompareGet
+                0x0000000000000000       0x48 build/em_rtc.o
+ .text.RTC_CompareSet
+                0x0000000000000000       0x50 build/em_rtc.o
+ .text.RTC_Enable
+                0x0000000000000000       0x24 build/em_rtc.o
+ .text.RTC_FreezeEnable
+                0x0000000000000000       0x28 build/em_rtc.o
+ .text.RTC_Init
+                0x0000000000000000       0x48 build/em_rtc.o
+ .text.RTC_Reset
+                0x0000000000000000       0x2c build/em_rtc.o
+ .text.RTC_CounterReset
+                0x0000000000000000       0x12 build/em_rtc.o
+ .comment       0x0000000000000000       0x7f build/em_rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/em_rtc.o
+ .text          0x0000000000000000        0x0 build/em_system.o
+ .data          0x0000000000000000        0x0 build/em_system.o
+ .bss           0x0000000000000000        0x0 build/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x0000000000000000       0x50 build/em_system.o
+ .text          0x0000000000000000        0x0 build/em_lcd.o
+ .data          0x0000000000000000        0x0 build/em_lcd.o
+ .bss           0x0000000000000000        0x0 build/em_lcd.o
+ .text.LCD_AnimEnable
+                0x0000000000000000       0x34 build/em_lcd.o
+ .text.LCD_FrameCountEnable
+                0x0000000000000000       0x34 build/em_lcd.o
+ .text.LCD_UpdateCtrl
+                0x0000000000000000       0x24 build/em_lcd.o
+ .text.LCD_FrameCountInit
+                0x0000000000000000       0x68 build/em_lcd.o
+ .text.LCD_AnimInit
+                0x0000000000000000       0x9c build/em_lcd.o
+ .text.LCD_ContrastSet
+                0x0000000000000000       0x3c build/em_lcd.o
+ .text.LCD_BiasSegmentSet
+                0x0000000000000000      0x11c build/em_lcd.o
+ .text.LCD_BiasComSet
+                0x0000000000000000       0x54 build/em_lcd.o
+ .text          0x0000000000000000        0x0 build/em_vcmp.o
+ .data          0x0000000000000000        0x0 build/em_vcmp.o
+ .bss           0x0000000000000000        0x0 build/em_vcmp.o
+ .text.VCMP_Ready
+                0x0000000000000000       0x18 build/em_vcmp.o
+ .text.VCMP_IntClear
+                0x0000000000000000       0x12 build/em_vcmp.o
+ .rodata        0x0000000000000000       0x1e build/em_vcmp.o
+ .text.VCMP_Init
+                0x0000000000000000      0x1bc build/em_vcmp.o
+ .text.VCMP_LowPowerRefSet
+                0x0000000000000000       0x38 build/em_vcmp.o
+ .text.VCMP_TriggerSet
+                0x0000000000000000       0x3c build/em_vcmp.o
+ .comment       0x0000000000000000       0x7f build/em_vcmp.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/em_vcmp.o
+ .text          0x0000000000000000        0x0 build/em_usart.o
+ .data          0x0000000000000000        0x0 build/em_usart.o
+ .bss           0x0000000000000000        0x0 build/em_usart.o
+ .text.BUS_RegMaskedWrite
+                0x0000000000000000       0x20 build/em_usart.o
+ .rodata        0x0000000000000000       0x1f build/em_usart.o
+ .text.USART_BaudrateAsyncSet
+                0x0000000000000000      0x134 build/em_usart.o
+ .text.USART_BaudrateCalc
+                0x0000000000000000      0x134 build/em_usart.o
+ .text.USART_BaudrateGet
+                0x0000000000000000       0x58 build/em_usart.o
+ .text.USART_BaudrateSyncSet
+                0x0000000000000000       0xa0 build/em_usart.o
+ .text.USART_Enable
+                0x0000000000000000       0x80 build/em_usart.o
+ .text.USART_InitAsync
+                0x0000000000000000       0xc0 build/em_usart.o
+ .text.USART_InitSync
+                0x0000000000000000       0xd8 build/em_usart.o
+ .text.USARTn_InitIrDA
+                0x0000000000000000       0x88 build/em_usart.o
+ .text.USART_InitI2s
+                0x0000000000000000       0xa8 build/em_usart.o
+ .text.USART_InitPrsTrigger
+                0x0000000000000000       0x58 build/em_usart.o
+ .text.USART_Reset
+                0x0000000000000000       0xb8 build/em_usart.o
+ .text.USART_Rx
+                0x0000000000000000       0x1e build/em_usart.o
+ .text.USART_RxDouble
+                0x0000000000000000       0x1e build/em_usart.o
+ .text.USART_RxDoubleExt
+                0x0000000000000000       0x1c build/em_usart.o
+ .text.USART_RxExt
+                0x0000000000000000       0x1e build/em_usart.o
+ .text.USART_SpiTransfer
+                0x0000000000000000       0x3a build/em_usart.o
+ .text.USART_Tx
+                0x0000000000000000       0x26 build/em_usart.o
+ .text.USART_TxDouble
+                0x0000000000000000       0x26 build/em_usart.o
+ .text.USART_TxDoubleExt
+                0x0000000000000000       0x20 build/em_usart.o
+ .text.USART_TxExt
+                0x0000000000000000       0x26 build/em_usart.o
+ .comment       0x0000000000000000       0x7f build/em_usart.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/em_usart.o
+ .text          0x0000000000000000        0x0 build/bsp_stk.o
+ .data          0x0000000000000000        0x0 build/bsp_stk.o
+ .bss           0x0000000000000000        0x0 build/bsp_stk.o
+ .text.BSP_Disable
+                0x0000000000000000       0x10 build/bsp_stk.o
+ .rodata        0x0000000000000000       0x50 build/bsp_stk.o
+ .text.BSP_EbiInit
+                0x0000000000000000      0x118 build/bsp_stk.o
+ .text.BSP_EbiDeInit
+                0x0000000000000000        0x6 build/bsp_stk.o
+ .text.BSP_Init
+                0x0000000000000000       0x1e build/bsp_stk.o
+ .text.BSP_CurrentGet
+                0x0000000000000000       0x42 build/bsp_stk.o
+ .text.BSP_VoltageGet
+                0x0000000000000000       0x42 build/bsp_stk.o
+ .comment       0x0000000000000000       0x7f build/bsp_stk.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/bsp_stk.o
+ .text          0x0000000000000000        0x0 build/bsp_stk_leds.o
+ .data          0x0000000000000000        0x0 build/bsp_stk_leds.o
+ .bss           0x0000000000000000        0x0 build/bsp_stk_leds.o
+ .text.BUS_RegBitRead
+                0x0000000000000000       0x20 build/bsp_stk_leds.o
+ .rodata        0x0000000000000000       0x1e build/bsp_stk_leds.o
+ .text.GPIO_PinOutClear
+                0x0000000000000000       0xa8 build/bsp_stk_leds.o
+ .text.GPIO_PinOutGet
+                0x0000000000000000       0xa4 build/bsp_stk_leds.o
+ .text.GPIO_PinOutSet
+                0x0000000000000000       0xa8 build/bsp_stk_leds.o
+ .text.GPIO_PinOutToggle
+                0x0000000000000000       0xa8 build/bsp_stk_leds.o
+ .rodata.ledArray
+                0x0000000000000000       0x10 build/bsp_stk_leds.o
+ .text.BSP_LedsInit
+                0x0000000000000000       0x58 build/bsp_stk_leds.o
+ .text.BSP_LedsGet
+                0x0000000000000000       0x58 build/bsp_stk_leds.o
+ .text.BSP_LedsSet
+                0x0000000000000000       0x6c build/bsp_stk_leds.o
+ .text.BSP_LedClear
+                0x0000000000000000       0x40 build/bsp_stk_leds.o
+ .text.BSP_LedGet
+                0x0000000000000000       0x44 build/bsp_stk_leds.o
+ .text.BSP_LedSet
+                0x0000000000000000       0x40 build/bsp_stk_leds.o
+ .text.BSP_LedToggle
+                0x0000000000000000       0x40 build/bsp_stk_leds.o
+ .comment       0x0000000000000000       0x7f build/bsp_stk_leds.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/bsp_stk_leds.o
+ .text          0x0000000000000000        0x0 build/bsp_trace.o
+ .data          0x0000000000000000        0x0 build/bsp_trace.o
+ .bss           0x0000000000000000        0x0 build/bsp_trace.o
+ .text.BSP_TraceSwoSetup
+                0x0000000000000000      0x114 build/bsp_trace.o
+ .text.BSP_TraceProfilerSetup
+                0x0000000000000000       0x24 build/bsp_trace.o
+ .comment       0x0000000000000000       0x7f build/bsp_trace.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/bsp_trace.o
+ .text          0x0000000000000000        0x0 build/init.o
+ .data          0x0000000000000000        0x0 build/init.o
+ .bss           0x0000000000000000        0x0 build/init.o
+ .data          0x0000000000000000        0x0 build/startup_efm32gg.o
+ .bss           0x0000000000000000        0x0 build/startup_efm32gg.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .group         0x0000000000000000        0xc build/o3.o
+ .text          0x0000000000000000        0x0 build/o3.o
+ .data          0x0000000000000000        0x0 build/o3.o
+ .bss           0x0000000000000000        0x0 build/o3.o
+ .text          0x0000000000000000      0x21c /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000000000       0x4c /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_addsubsf3.o)
+ .text          0x0000000000000000      0x2a0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000000000       0x38 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_muldivsf3.o)
+ .text          0x0000000000000000       0x40 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000000000       0x24 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_arm_fixunssfsi.o)
+ .text          0x0000000000000000       0x30 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000000       0x2c /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000      0x2d0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x0000000000000000        0x8 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000000       0x34 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_udivmoddi4.o)
+ .text          0x0000000000000000        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000000000000000       0x16 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000000       0x28 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000100000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD build/system_efm32gg.o
+LOAD build/vddcheck.o
+LOAD build/segmentlcd.o
+LOAD build/em_assert.o
+LOAD build/em_cmu.o
+LOAD build/em_emu.o
+LOAD build/em_gpio.o
+LOAD build/em_rtc.o
+LOAD build/em_system.o
+LOAD build/em_lcd.o
+LOAD build/em_vcmp.o
+LOAD build/em_usart.o
+LOAD build/bsp_stk.o
+LOAD build/bsp_stk_leds.o
+LOAD build/bsp_trace.o
+LOAD build/init.o
+LOAD build/startup_efm32gg.o
+LOAD build/o3.o
+START GROUP
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/libgcc.a
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+END GROUP
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+
+.text           0x0000000000000000     0x26e8
+ *(.vectors)
+ .vectors       0x0000000000000000       0xdc build/startup_efm32gg.o
+                0x0000000000000000                __Vectors
+                0x00000000000000dc                __Vectors_End = .
+                0x00000000000000dc                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x00000000000000dc                __end__ = .
+ *(.text*)
+ .text          0x00000000000000dc       0x40 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .text          0x000000000000011c       0x74 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x000000000000011c                _mainCRTStartup
+                0x000000000000011c                _start
+ .text.GetProdRev
+                0x0000000000000190       0x10 build/system_efm32gg.o
+ .text.SystemCoreClockGet
+                0x00000000000001a0       0x34 build/system_efm32gg.o
+                0x00000000000001a0                SystemCoreClockGet
+ .text.SystemMaxCoreClockGet
+                0x00000000000001d4        0xc build/system_efm32gg.o
+                0x00000000000001d4                SystemMaxCoreClockGet
+ .text.SystemHFClockGet
+                0x00000000000001e0      0x100 build/system_efm32gg.o
+                0x00000000000001e0                SystemHFClockGet
+ .text.SystemHFXOClockGet
+                0x00000000000002e0        0xc build/system_efm32gg.o
+                0x00000000000002e0                SystemHFXOClockGet
+ .text.SystemInit
+                0x00000000000002ec        0x4 build/system_efm32gg.o
+                0x00000000000002ec                SystemInit
+ .text.SystemLFRCOClockGet
+                0x00000000000002f0        0x8 build/system_efm32gg.o
+                0x00000000000002f0                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x00000000000002f8        0x8 build/system_efm32gg.o
+                0x00000000000002f8                SystemULFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x0000000000000300        0xc build/system_efm32gg.o
+                0x0000000000000300                SystemLFXOClockGet
+ .text.LCD_FreezeEnable
+                0x000000000000030c       0x28 build/segmentlcd.o
+ .text.LCD_SyncBusyDelay
+                0x0000000000000334       0x1c build/segmentlcd.o
+ .text.LCD_IntDisable
+                0x0000000000000350       0x1c build/segmentlcd.o
+ .text.SegmentLCD_AllOff
+                0x000000000000036c       0xac build/segmentlcd.o
+                0x000000000000036c                SegmentLCD_AllOff
+ .text.SegmentLCD_AlphaNumberOff
+                0x0000000000000418       0xa8 build/segmentlcd.o
+                0x0000000000000418                SegmentLCD_AlphaNumberOff
+ .text.SegmentLCD_Init
+                0x00000000000004c0       0xbc build/segmentlcd.o
+                0x00000000000004c0                SegmentLCD_Init
+ .text.SegmentLCD_Write
+                0x000000000000057c       0xd8 build/segmentlcd.o
+                0x000000000000057c                SegmentLCD_Write
+ .text.assertEFM
+                0x0000000000000654        0x8 build/em_assert.o
+                0x0000000000000654                assertEFM
+ .text.BUS_RegBitWrite
+                0x000000000000065c       0x24 build/em_cmu.o
+ .text.BUS_RegBitRead
+                0x0000000000000680       0x20 build/em_cmu.o
+ .text.CMU_DivToLog2
+                0x00000000000006a0       0x38 build/em_cmu.o
+ .text.SYSTEM_GetProdRev
+                0x00000000000006d8       0x10 build/em_cmu.o
+ .text.SYSTEM_GetFamily
+                0x00000000000006e8       0x10 build/em_cmu.o
+ .text.maxFreqHfle
+                0x00000000000006f8       0x90 build/em_cmu.o
+ .text.setHfLeConfig
+                0x0000000000000788       0x3c build/em_cmu.o
+ .text.getHfLeConfig
+                0x00000000000007c4       0x40 build/em_cmu.o
+ .text.auxClkGet
+                0x0000000000000804       0xbc build/em_cmu.o
+ .text.dbgClkGet
+                0x00000000000008c0       0x50 build/em_cmu.o
+ .text.flashWaitStateControl
+                0x0000000000000910       0xbc build/em_cmu.o
+ .text.flashWaitStateMax
+                0x00000000000009cc       0x12 build/em_cmu.o
+ *fill*         0x00000000000009de        0x2 
+ .text.lfClkGet
+                0x00000000000009e0      0x10c build/em_cmu.o
+ .text.syncReg  0x0000000000000aec       0x2c build/em_cmu.o
+ .text.usbCClkGet
+                0x0000000000000b18       0x4c build/em_cmu.o
+ .text.CMU_ClockDivSet
+                0x0000000000000b64      0x2c8 build/em_cmu.o
+                0x0000000000000b64                CMU_ClockDivSet
+ .text.CMU_ClockEnable
+                0x0000000000000e2c       0xe4 build/em_cmu.o
+                0x0000000000000e2c                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x0000000000000f10      0x1e0 build/em_cmu.o
+                0x0000000000000f10                CMU_ClockFreqGet
+ .text.CMU_ClockSelectGet
+                0x00000000000010f0      0x190 build/em_cmu.o
+                0x00000000000010f0                CMU_ClockSelectGet
+ .text.CMU_ClockSelectSet
+                0x0000000000001280      0x308 build/em_cmu.o
+                0x0000000000001280                CMU_ClockSelectSet
+ .text.CMU_LCDClkFDIVSet
+                0x0000000000001588       0x4c build/em_cmu.o
+                0x0000000000001588                CMU_LCDClkFDIVSet
+ .text.CMU_OscillatorEnable
+                0x00000000000015d4       0xd4 build/em_cmu.o
+                0x00000000000015d4                CMU_OscillatorEnable
+ .text.EMU_UpdateOscConfig
+                0x00000000000016a8       0x14 build/em_emu.o
+                0x00000000000016a8                EMU_UpdateOscConfig
+ .text.SYSTEM_ChipRevisionGet
+                0x00000000000016bc       0x90 build/em_system.o
+                0x00000000000016bc                SYSTEM_ChipRevisionGet
+ .text.LCD_Enable
+                0x000000000000174c       0x34 build/em_lcd.o
+ .text.BUS_RegBitWrite
+                0x0000000000001780       0x24 build/em_lcd.o
+ .text.LCD_Init
+                0x00000000000017a4       0x88 build/em_lcd.o
+                0x00000000000017a4                LCD_Init
+ .text.LCD_VLCDSelect
+                0x000000000000182c       0x3c build/em_lcd.o
+                0x000000000000182c                LCD_VLCDSelect
+ .text.LCD_SegmentRangeEnable
+                0x0000000000001868       0x44 build/em_lcd.o
+                0x0000000000001868                LCD_SegmentRangeEnable
+ .text.LCD_SegmentSet
+                0x00000000000018ac      0x214 build/em_lcd.o
+                0x00000000000018ac                LCD_SegmentSet
+ .text.LCD_SegmentSetLow
+                0x0000000000001ac0      0x194 build/em_lcd.o
+                0x0000000000001ac0                LCD_SegmentSetLow
+ .text.LCD_SegmentSetHigh
+                0x0000000000001c54      0x18c build/em_lcd.o
+                0x0000000000001c54                LCD_SegmentSetHigh
+ .text.LCD_VBoostSet
+                0x0000000000001de0       0x20 build/em_lcd.o
+                0x0000000000001de0                LCD_VBoostSet
+ .text.NVIC_EnableIRQ
+                0x0000000000001e00       0x2c build/init.o
+ .text.CHIP_Init
+                0x0000000000001e2c       0x44 build/init.o
+ .text.lcd_write
+                0x0000000000001e70       0x14 build/init.o
+                0x0000000000001e70                lcd_write
+ .text.init     0x0000000000001e84       0x28 build/init.o
+                0x0000000000001e84                init
+ .text          0x0000000000001eac       0x30 build/startup_efm32gg.o
+                0x0000000000001eac                Reset_Handler
+                0x0000000000001ed8                DebugMon_Handler
+                0x0000000000001ed8                USART0_TX_IRQHandler
+                0x0000000000001ed8                I2C0_IRQHandler
+                0x0000000000001ed8                HardFault_Handler
+                0x0000000000001ed8                LEUART1_IRQHandler
+                0x0000000000001ed8                USART1_RX_IRQHandler
+                0x0000000000001ed8                PendSV_Handler
+                0x0000000000001ed8                NMI_Handler
+                0x0000000000001ed8                I2C1_IRQHandler
+                0x0000000000001ed8                TIMER3_IRQHandler
+                0x0000000000001ed8                USART1_TX_IRQHandler
+                0x0000000000001ed8                MSC_IRQHandler
+                0x0000000000001ed8                ADC0_IRQHandler
+                0x0000000000001ed8                UsageFault_Handler
+                0x0000000000001ed8                LEUART0_IRQHandler
+                0x0000000000001ed8                UART0_TX_IRQHandler
+                0x0000000000001ed8                UART1_TX_IRQHandler
+                0x0000000000001ed8                RTC_IRQHandler
+                0x0000000000001ed8                TIMER0_IRQHandler
+                0x0000000000001ed8                LCD_IRQHandler
+                0x0000000000001ed8                PCNT2_IRQHandler
+                0x0000000000001ed8                UART0_RX_IRQHandler
+                0x0000000000001ed8                LETIMER0_IRQHandler
+                0x0000000000001ed8                TIMER1_IRQHandler
+                0x0000000000001ed8                USART2_RX_IRQHandler
+                0x0000000000001ed8                Default_Handler
+                0x0000000000001ed8                EMU_IRQHandler
+                0x0000000000001ed8                PCNT0_IRQHandler
+                0x0000000000001ed8                USB_IRQHandler
+                0x0000000000001ed8                BURTC_IRQHandler
+                0x0000000000001ed8                PCNT1_IRQHandler
+                0x0000000000001ed8                ACMP0_IRQHandler
+                0x0000000000001ed8                USART0_RX_IRQHandler
+                0x0000000000001ed8                MemManage_Handler
+                0x0000000000001ed8                SVC_Handler
+                0x0000000000001ed8                DAC0_IRQHandler
+                0x0000000000001ed8                UART1_RX_IRQHandler
+                0x0000000000001ed8                CMU_IRQHandler
+                0x0000000000001ed8                EBI_IRQHandler
+                0x0000000000001ed8                LESENSE_IRQHandler
+                0x0000000000001ed8                AES_IRQHandler
+                0x0000000000001ed8                VCMP_IRQHandler
+                0x0000000000001ed8                DMA_IRQHandler
+                0x0000000000001ed8                BusFault_Handler
+                0x0000000000001ed8                TIMER2_IRQHandler
+                0x0000000000001ed8                USART2_TX_IRQHandler
+ .text.int_to_string
+                0x0000000000001edc       0x62 build/o3.o
+                0x0000000000001edc                int_to_string
+ .text.time_to_string
+                0x0000000000001f3e       0x68 build/o3.o
+                0x0000000000001f3e                time_to_string
+ *fill*         0x0000000000001fa6        0x2 
+ .text.set_LED  0x0000000000001fa8       0x2c build/o3.o
+                0x0000000000001fa8                set_LED
+ .text.update_display
+                0x0000000000001fd4       0x28 build/o3.o
+                0x0000000000001fd4                update_display
+ .text.setup    0x0000000000001ffc      0x108 build/o3.o
+                0x0000000000001ffc                setup
+ .text.start    0x0000000000002104       0x24 build/o3.o
+                0x0000000000002104                start
+ .text.stop     0x0000000000002128       0x18 build/o3.o
+                0x0000000000002128                stop
+ .text.add_hours
+                0x0000000000002140       0x14 build/o3.o
+                0x0000000000002140                add_hours
+ .text.add_minutes
+                0x0000000000002154       0x28 build/o3.o
+                0x0000000000002154                add_minutes
+ .text.add_seconds
+                0x000000000000217c       0x28 build/o3.o
+                0x000000000000217c                add_seconds
+ .text.GPIO_EVEN_IRQHandler
+                0x00000000000021a4       0x68 build/o3.o
+                0x00000000000021a4                GPIO_EVEN_IRQHandler
+ .text.GPIO_ODD_IRQHandler
+                0x000000000000220c       0x5c build/o3.o
+                0x000000000000220c                GPIO_ODD_IRQHandler
+ .text.SysTick_Handler
+                0x0000000000002268       0x70 build/o3.o
+                0x0000000000002268                SysTick_Handler
+ .text.main     0x00000000000022d8       0x10 build/o3.o
+                0x00000000000022d8                main
+ .text.exit     0x00000000000022e8       0x28 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+                0x00000000000022e8                exit
+ .text.__libc_init_array
+                0x0000000000002310       0x48 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+                0x0000000000002310                __libc_init_array
+ .text.memset   0x0000000000002358       0x10 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+                0x0000000000002358                memset
+ .text          0x0000000000002368       0x10 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-strlen.o)
+                0x0000000000002368                strlen
+ .text._exit    0x0000000000002378        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                0x0000000000002378                _exit
+ *(.init)
+ .init          0x000000000000237c        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x000000000000237c                _init
+ .init          0x0000000000002380        0x8 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0000000000002388        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x0000000000002388                _fini
+ .fini          0x000000000000238c        0x8 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.EFM_Display
+                0x0000000000002394      0x1fe build/segmentlcd.o
+ *fill*         0x0000000000002592        0x2 
+ .rodata.EFM_Alphabet
+                0x0000000000002594       0xb8 build/segmentlcd.o
+ .rodata.lcdInit
+                0x000000000000264c       0x14 build/segmentlcd.o
+ .rodata        0x0000000000002660       0x3d build/em_cmu.o
+ *fill*         0x000000000000269d        0x3 
+ .rodata        0x00000000000026a0       0x20 build/em_system.o
+ .rodata        0x00000000000026c0       0x1d build/em_lcd.o
+ *fill*         0x00000000000026dd        0x3 
+ .rodata._global_impure_ptr
+                0x00000000000026e0        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                0x00000000000026e0                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00000000000026e4        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .eh_frame      0x00000000000026e4        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+
+.glue_7         0x00000000000026e8        0x0
+ .glue_7        0x00000000000026e8        0x0 linker stubs
+
+.glue_7t        0x00000000000026e8        0x0
+ .glue_7t       0x00000000000026e8        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000026e8        0x0
+ .vfp11_veneer  0x00000000000026e8        0x0 linker stubs
+
+.v4_bx          0x00000000000026e8        0x0
+ .v4_bx         0x00000000000026e8        0x0 linker stubs
+
+.iplt           0x00000000000026e8        0x0
+ .iplt          0x00000000000026e8        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000000026e8                __exidx_start = .
+
+.ARM.exidx      0x00000000000026e8        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00000000000026e8        0x8 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x00000000000026f0                __exidx_end = .
+                0x00000000000026f0                __etext = .
+
+.rel.dyn        0x00000000000026f0        0x0
+ .rel.iplt      0x00000000000026f0        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.data           0x0000000020000000       0x80 load address 0x00000000000026f0
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemHFXOClock
+                0x0000000020000000        0x4 build/system_efm32gg.o
+ .data.SystemLFXOClock
+                0x0000000020000004        0x4 build/system_efm32gg.o
+ .data.str      0x0000000020000008        0x8 build/o3.o
+ .data.GPIO     0x0000000020000010        0x4 build/o3.o
+                0x0000000020000010                GPIO
+ .data.SYSTICK  0x0000000020000014        0x4 build/o3.o
+                0x0000000020000014                SYSTICK
+ .data.impure_data
+                0x0000000020000018       0x60 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+                0x0000000020000078                . = ALIGN (0x4)
+ *(.ram)
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020000078                PROVIDE (__preinit_array_end, .)
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000078        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x000000002000007c                PROVIDE (__init_array_end, .)
+                0x000000002000007c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000000002000007c        0x4 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x0000000020000080                . = ALIGN (0x4)
+                0x0000000020000080                __data_end__ = .
+
+.igot.plt       0x0000000020000080        0x0 load address 0x0000000000002770
+ .igot.plt      0x0000000020000080        0x0 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.bss            0x0000000020000080       0x34 load address 0x0000000000002770
+                0x0000000020000080                . = ALIGN (0x4)
+                0x0000000020000080                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020000080       0x1c /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .bss.cmuStatus
+                0x000000002000009c        0x4 build/em_emu.o
+ .bss.state     0x00000000200000a0        0x4 build/o3.o
+ .bss.time      0x00000000200000a4        0xc build/o3.o
+ *(COMMON)
+ COMMON         0x00000000200000b0        0x4 build/system_efm32gg.o
+                0x00000000200000b0                SystemCoreClock
+                0x00000000200000b4                . = ALIGN (0x4)
+                0x00000000200000b4                __bss_end__ = .
+
+.heap           0x00000000200000b8      0xc00
+                0x00000000200000b8                __HeapBase = .
+                0x00000000200000b8                __end__ = .
+                0x00000000200000b8                end = __end__
+                0x00000000200000b8                _end = __end__
+ *(.heap*)
+ .heap          0x00000000200000b8      0xc00 build/startup_efm32gg.o
+                0x0000000020000cb8                __HeapLimit = .
+
+.stack_dummy    0x00000000200000b8      0x400
+ *(.stack*)
+ .stack         0x00000000200000b8      0x400 build/startup_efm32gg.o
+                0x0000000020020000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x000000002001fc00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020020000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x0000000000000001                ASSERT ((LENGTH (FLASH) >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(exe/o3.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ .ARM.attributes
+                0x0000000000000000       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x33 build/system_efm32gg.o
+ .ARM.attributes
+                0x0000000000000098       0x33 build/segmentlcd.o
+ .ARM.attributes
+                0x00000000000000cb       0x33 build/em_assert.o
+ .ARM.attributes
+                0x00000000000000fe       0x33 build/em_cmu.o
+ .ARM.attributes
+                0x0000000000000131       0x33 build/em_emu.o
+ .ARM.attributes
+                0x0000000000000164       0x33 build/em_system.o
+ .ARM.attributes
+                0x0000000000000197       0x33 build/em_lcd.o
+ .ARM.attributes
+                0x00000000000001ca       0x33 build/init.o
+ .ARM.attributes
+                0x00000000000001fd       0x1b build/startup_efm32gg.o
+ .ARM.attributes
+                0x0000000000000218       0x33 build/o3.o
+ .ARM.attributes
+                0x000000000000024b       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000278       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000002a5       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002d2       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000002ff       0x17 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000316       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000343       0x2d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000370       0x1d /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e build/system_efm32gg.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f build/segmentlcd.o
+ .comment       0x000000000000007e       0x7f build/em_assert.o
+ .comment       0x000000000000007e       0x7f build/em_cmu.o
+ .comment       0x000000000000007e       0x7f build/em_emu.o
+ .comment       0x000000000000007e       0x7f build/em_system.o
+ .comment       0x000000000000007e       0x7f build/em_lcd.o
+ .comment       0x000000000000007e       0x7f build/init.o
+ .comment       0x000000000000007e       0x7f build/o3.o
+
+.debug_info     0x0000000000000000      0x478
+ .debug_info    0x0000000000000000      0x478 build/o3.o
+
+.debug_abbrev   0x0000000000000000      0x195
+ .debug_abbrev  0x0000000000000000      0x195 build/o3.o
+
+.debug_aranges  0x0000000000000000       0x88
+ .debug_aranges
+                0x0000000000000000       0x88 build/o3.o
+
+.debug_ranges   0x0000000000000000       0x78
+ .debug_ranges  0x0000000000000000       0x78 build/o3.o
+
+.debug_macro    0x0000000000000000      0xfda
+ .debug_macro   0x0000000000000000       0xc4 build/o3.o
+ .debug_macro   0x00000000000000c4      0xa5a build/o3.o
+ .debug_macro   0x0000000000000b1e       0x22 build/o3.o
+ .debug_macro   0x0000000000000b40       0x87 build/o3.o
+ .debug_macro   0x0000000000000bc7       0x51 build/o3.o
+ .debug_macro   0x0000000000000c18       0xef build/o3.o
+ .debug_macro   0x0000000000000d07       0x6a build/o3.o
+ .debug_macro   0x0000000000000d71      0x1df build/o3.o
+ .debug_macro   0x0000000000000f50       0x22 build/o3.o
+ .debug_macro   0x0000000000000f72       0x40 build/o3.o
+ .debug_macro   0x0000000000000fb2       0x28 build/o3.o
+
+.debug_line     0x0000000000000000      0x3f0
+ .debug_line    0x0000000000000000      0x3f0 build/o3.o
+
+.debug_str      0x0000000000000000     0x3df8
+ .debug_str     0x0000000000000000     0x3df8 build/o3.o
+                                       0x3f72 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x1d8
+ .debug_frame   0x0000000000000000      0x144 build/o3.o
+ .debug_frame   0x0000000000000144       0x28 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x000000000000016c       0x2c /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000198       0x20 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000000001b8       0x20 /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/gnu_arm/7.2_2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
